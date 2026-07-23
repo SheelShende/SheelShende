@@ -137,7 +137,7 @@ I am a third-year engineering student based in Nagpur, India, driven by a passio
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sheel/sheel/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/SheelShende/SheelShende/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
 
