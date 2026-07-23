@@ -43,13 +43,13 @@ I am a third-year engineering student based in Nagpur, India, driven by a passio
 <img src="https://skillicons.dev/icons?i=cpp,java,python,c,html,css" />
 
 ### Frontend & UI
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
 
 ### Backend & Databases
 <img src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb,redis" />
 
 ### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel" />
 
 </div>
 
@@ -104,10 +104,10 @@ I am a third-year engineering student based in Nagpur, India, driven by a passio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sheel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheel&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SheelShende&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SheelShende&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheelShende&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" />
 
 </div>
 
@@ -117,7 +117,7 @@ I am a third-year engineering student based in Nagpur, India, driven by a passio
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sheel&theme=tokyonight&no-bg=true&margin-w=4&margin-h=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=SheelShende&theme=tokyonight&no-bg=true&margin-w=4&margin-h=4" />
 
 </div>
 
