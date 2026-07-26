@@ -93,7 +93,7 @@ I am a third-year engineering student based in Nagpur, India, driven by a passio
 
 <div align="center">
 
-<a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://leetcode.com/u/SheelShende/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 
 </div>
