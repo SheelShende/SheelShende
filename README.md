@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=250&section=header&text=Sheel&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI/ML%20Enthusiast&descSize=20&descAlignY=58)](https://github.com/SheelShende)
+[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=250&section=header&text=Sheel%20Shende&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI/ML%20Enthusiast&descSize=20&descAlignY=58)](https://github.com/SheelShende)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+Scalable+Software+Architectures;Engineering+Intelligent+AI%2FML+Systems;Developing+Enterprise-Grade+Full-Stack+Apps)](https://git.io/typing-svg)
 
